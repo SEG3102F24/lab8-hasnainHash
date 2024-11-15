@@ -1,1 +1,1 @@
-rootProject.name = "employeeGql"
+rootProject.name = "temp-converter-api"
